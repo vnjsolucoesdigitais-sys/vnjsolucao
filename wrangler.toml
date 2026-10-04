@@ -1,0 +1,12 @@
+name = "vnj-painel-licitacoes"
+compatibility_date = "2026-09-26"
+pages_build_output_dir = "public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "vnj-painel-db"
+database_id = "9f279bca-7175-4c6a-b5a4-007c8e975026"
+
+[[r2_buckets]]
+binding = "FILES"
+bucket_name = "vnj-painel-arquivos"
